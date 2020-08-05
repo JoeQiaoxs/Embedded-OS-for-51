@@ -17,3 +17,16 @@ An embedded OS for 8051 from scratch.
 ```
 
 2. Interrupt System
+
+* Set Operation Mode of Interrupt Sources
+* Flag bit of Interrupt Sources
+* Interrupt Source Enable
+* Interrupt System Enable
+* Set Preority for Interrupt Sources
+* Interrupt Service Routine
+
+# Timer / Counter
+
+# Serial Port
+
+# Enternal Interrupt
